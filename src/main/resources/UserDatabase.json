@@ -1,0 +1,18 @@
+{"User": [
+    {
+        "IDkey": "tester",
+        "password": "2c84665d1bf7d1a3a204e978133c36bf1a3a1c8f930a21b5aff893b6821530af",
+        "salt": "893bdec7fb6c8787a519ddb5165f3d04",
+        "phone": "tester",
+        "name": "tester",
+        "email": "tester@tester"
+    },
+    {
+        "IDkey": "password",
+        "password": "862a5f136a0ef9dd27303d6f147ab3b86e6a80622958e5e6c79b137d67a8221b",
+        "salt": "9492f5d5922c541fb512f5b868aa04e6",
+        "phone": "123",
+        "name": "password",
+        "email": "password@password"
+    }
+]}
